@@ -9,3 +9,6 @@ Basic Features
 ・Delete Tasks
 　　Remove tasks from the list.
 
+
+python app.py & http://127.0.0.1:5000
+
